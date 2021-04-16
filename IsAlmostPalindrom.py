@@ -4,7 +4,6 @@ Created on Wed Mar 24 09:17:51 2021
 
 @author: 97252
 """
-
 def isPalindrome(word,first,last):    
     isPalindromeFlag = 1    
     while(first<last):
